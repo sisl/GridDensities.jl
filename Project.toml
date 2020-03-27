@@ -1,0 +1,16 @@
+name = "GridDensities"
+uuid = "30cfb417-a18a-4984-907c-c461bfb07c95"
+authors = ["Sydney Katz"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
+[compat]
+julia = "1.4"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
