@@ -1,8 +1,8 @@
 # GridDensities
 
-[![Build Status](https://travis-ci.com/smkatz12/GridDensities.jl.svg?branch=master)](https://travis-ci.com/smkatz12/GridDensities.jl)
-[![Codecov](https://codecov.io/gh/smkatz12/GridDensities.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/smkatz12/GridDensities.jl)
-[![Coveralls](https://coveralls.io/repos/github/smkatz12/GridDensities.jl/badge.svg?branch=master)](https://coveralls.io/github/smkatz12/GridDensities.jl?branch=master)
+[![Build Status](https://travis-ci.org/sisl/GridDensities.jl.svg?branch=master)](https://travis-ci.org/sisl/GridDensities.jl)
+[![Codecov](https://codecov.io/gh/sisl/GridDensities.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/sisl/GridDensities.jl)
+[![Coveralls](https://coveralls.io/repos/sisl/smkatz12/GridDensities.jl/badge.svg?branch=master)](https://coveralls.io/repos/sisl/GridDensities.jl?branch=master)
 
 This packages allows users to define a piecewise uniform density over a hypergrid and draw samples from it.
 
