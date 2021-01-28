@@ -6,7 +6,7 @@
 
 This packages allows users to define a piecewise uniform density over a hypergrid and draw samples from it.
 
-The figure below shows an example defined on a two-dimensional grid. The left half of the figure shows a plot of the probability density function (pdf) and the left half of the figure shows a two-dimensional histogram of 1,000,000 samples.
+The figure below shows an example defined on a two-dimensional grid. The left half of the figure shows a plot of the probability density function (pdf) and the right half of the figure shows a two-dimensional histogram of 1,000,000 samples. Darker colors indicate higher values.
 
 ![PDF and samples from 2D grid density.](grid_density_ex.svg)
 
