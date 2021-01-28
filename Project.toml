@@ -7,7 +7,7 @@ version = "0.1.0"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 
 [compat]
-Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Distributions = "0.24"
 julia = "1.4"
 
 [extras]
